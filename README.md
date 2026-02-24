@@ -114,13 +114,11 @@ Gaza_Aid_News/
 ### 📌 Example Requests
 
 Get latest news:
-`` GET /news ```
+``` GET /news ```
 
 
 Search:
-
-``` GET /news?search=المساعدات
-```
+``` GET /news?search=المساعدات ```
 
 Sort ascending:
 ```
@@ -175,23 +173,34 @@ POST /news/6978ad38d9b195243f86bb5f/like
 }
 ```
 ---
+## ⚙ Installation & Running
 
-⚙ Installation & Running
-1️⃣ Install Dependencies
-``` npm install ```
+### 1️⃣ Install Dependencies
+```bash
+npm install
 2️⃣ Start Server
-``` npm start ```
-3️⃣ Test API
-``` http://localhost:5000/api/v1/news ```
+``` npm start
+```
 
-# Summary
+3️⃣ Test API
+```http://localhost:5000/api/v1/news
+```
+
+📌 Summary
 
 This backend system demonstrates:
+
 Automated Web Scraping
+
 Clean project architecture
+
 MongoDB structured storage
+
 RESTful API design
+
 Cursor-based pagination
+
 Secure validation & rate limiting
 
 It provides a scalable and secure solution for collecting and serving Gaza aid-related news.
+ذ
