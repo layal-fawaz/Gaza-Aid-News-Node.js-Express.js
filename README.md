@@ -176,15 +176,18 @@ POST /news/6978ad38d9b195243f86bb5f/like
 ## ⚙ Installation & Running
 
 ### 1️⃣ Install Dependencies
-``` npm install
+```
+ npm install
 ```
 
 2️⃣ Start Server
-``` npm start
+```
+ npm start
 ```
 
 3️⃣ Test API
-``` http://localhost:5000/api/v1/news
+```
+ http://localhost:5000/api/v1/news
 ```
 
 📌 Summary
