@@ -176,8 +176,9 @@ POST /news/6978ad38d9b195243f86bb5f/like
 ## ⚙ Installation & Running
 
 ### 1️⃣ Install Dependencies
-```bash
-npm install
+``` npm install
+```
+
 2️⃣ Start Server
 ``` npm start
 ```
@@ -189,18 +190,11 @@ npm install
 📌 Summary
 
 This backend system demonstrates:
-
 Automated Web Scraping
-
 Clean project architecture
-
 MongoDB structured storage
-
 RESTful API design
-
 Cursor-based pagination
-
 Secure validation & rate limiting
 
 It provides a scalable and secure solution for collecting and serving Gaza aid-related news.
-ذ
