@@ -113,12 +113,14 @@ Gaza_Aid_News/
 ### 📌 Example Requests
 
 Get latest news:
-``` GET /news
+```
+ GET /news
 ```
 
 
 Search:
-``` GET /news?search=المساعدات 
+```
+ GET /news?search=المساعدات 
 ```
 
 Sort ascending:
